@@ -1,2 +1,2 @@
-# IS235_Sp19_MM
+# IS235_Sp19_MatijaMilin
 class project
